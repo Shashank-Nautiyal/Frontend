@@ -1,0 +1,6 @@
+# Python-generated files
+uv.lock
+pyproject.toml
+.python-version
+# Virtual environments
+.venv
